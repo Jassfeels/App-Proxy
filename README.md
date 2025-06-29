@@ -115,4 +115,4 @@ fetch('/a/recommendation')
 
 ---
 
-Feel free to fork or extend this base to create fully private, dynamic storefront features with Shopify App Proxy.
+#Sanjay Singh
